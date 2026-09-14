@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**chaitanyamodi-<div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=%3E_%20Chaitanya%20Modi&fontSize=38&desc=Python%20Backend%20Developer%20%7C%20Django%20%C2%B7%20DRF%20%C2%B7%20FastAPI&descColor=8AFF57&animation=fadeIn" />
 
@@ -193,16 +190,4 @@ open_to:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&height=100&section=footer&animation=fadeIn" />
 
-</div>dev/chaitanyamodi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
