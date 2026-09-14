@@ -1,8 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=%3E_%20Chaitanya%20Modi&fontSize=38&desc=Python%20Backend%20Developer%20%7C%20Django%20%C2%B7%20DRF%20%C2%B7%20FastAPI&descColor=8AFF57&animation=fadeIn" />
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Python+Backend+Developer;%24+stack+%E2%86%92+Django+%7C+DRF+%7C+FastAPI+%7C+PostgreSQL;%24+cat+open-to.txt+%E2%86%92+Backend+%2F+API+Engineering+roles;%24+status+%E2%86%92+Shipping+REST+APIs+at+InheritX+Solutions" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=%3E_%20Chaitanya%20Modi&fontSize=38&desc=Python%20Backend%20Developer%20%7C%20Django%20%C2%B7%20DRF%20%C2%B7%20FastAPI&descColor=8AFF57&animation=fadeIn" />
 
 <br/>
 
