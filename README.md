@@ -130,33 +130,38 @@ Database-driven web application with server-side validation and dynamic templati
 
 <br/>
 
-## `> github-analytics`
+## `> system-monitor`
 
 <div align="center">
 
-<table>
+<!-- Top Row: Stats + Streak Side by Side -->
+<table width="100%">
 <tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=chaitanyamodi-dev&show_icons=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" alt="Stats" />
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=chaitanyamodi-dev&show_icons=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08&rank_icon=percentile" alt="GitHub Stats" />
 </td>
-<td width="50%">
-<img src="https://streak-stats.demolab.com/?user=chaitanyamodi-dev&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C" alt="Streak" />
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyamodi-dev&layout=compact&hide_border=true&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08" alt="Top Languages" />
+<td width="50%" align="center">
+<img src="https://streak-stats.demolab.com/?user=chaitanyamodi-dev&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C&sideLabels=8AFF57&dates=E8F5E1" alt="Coding Streak" />
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyamodi-dev&bg_color=0A0F08&color=CAFF3C&line=CAFF3C&point=8AFF57&area=true&hide_border=true" />
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=chaitanyamodi-dev&theme=matrix&no-frame=true&column=7" />
-
-</div>
+<!-- Full Width Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyamodi-dev&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=CAFF3C&area=true&hide_border=true&radius=0" alt="Activity Graph" />
 
 <br/>
+
+<!-- Custom Themed Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=chaitanyamodi-dev&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15&row=1" alt="Trophies" />
+
+<br/>
+
+<!-- Compact Language Stats Bar -->
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyamodi-dev&layout=bar&hide_border=true&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08&size_weight=0.5&count_weight=0.5&card_width=320" alt="Top Languages" />
+
+</div>
 
 ## `> cat current-focus.yaml`
 
