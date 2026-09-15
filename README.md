@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Chaitanya%20Modi&fontSize=45&fontColor=0f172a&animation=twinkling&fontAlignY=35&desc=Python%20Backend%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Python+%7C+Django+%7C+DRF+%7C+FastAPI;Building+REST+APIs+that+don't+break;PostgreSQL+%2B+Django+ORM+%2B+Postman;Currently+Backend+Developer+at+InheritX+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Python+%7C+Django+%7C+DRF+%7C+FastAPI;Building+REST+APIs+that+don't+break;PostgreSQL+%2B+Django+ORM+%2B+Postman;Backend+Developer+at+InheritX+Solutions" alt="Typing SVG" />
 </a>
 
 <br/>
