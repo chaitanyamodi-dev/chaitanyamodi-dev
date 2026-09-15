@@ -89,23 +89,6 @@ Python Django DRF FastAPI PostgreSQL Docker Git Postman
 
 <br/>
 
-### 🛠️ Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-**Backend / Frameworks**
-
-<img src="https://skillicons.dev/icons?i=django,fastapi" />
-
-**Databases / ORM**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
-
-**Dev Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,docker" />
 
 <br/>
 
