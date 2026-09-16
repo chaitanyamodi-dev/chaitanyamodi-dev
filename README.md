@@ -196,7 +196,9 @@ open_to:
 🏆 Trophies
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=chaitanyamodi-dev&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=15" /> </div>
 📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyamodi-dev&theme=react-dark&hide_border=true&color=a855f7&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6" width="100%" /> <img src="https://ghchart.rshah.org/8b5cf6/chaitanyamodi-dev" alt="chaitanyamodi-dev's github contribution graph" width="100%" /> </div> <br/>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyamodi-dev&theme=react-dark&hide_border=true&color=a855f7&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6" width="100%" /> <img src="https://ghchart.rshah.org/8b5cf6/chaitanyamodi-dev" alt="chaitanyamodi-dev's github contribution graph" width="100%" />
+  
+</div> <br/>
 
 ### 🔗 Connect
 
