@@ -160,11 +160,11 @@ open_to:
 
 | Program | Partner | Focus Areas |
 |---|---|---|
-| Software Engineering Job Simulation | ![HPE](https://img.shields.io/badge/HPE-8b5cf6?style=flat-square&logo=hp&logoColor=white) | RESTful services, data upload, unit testing |
-| Advanced Software Engineering Job Simulation | ![Walmart](https://img.shields.io/badge/Walmart%20Global%20Tech-6d28d9?style=flat-square&logo=walmart&logoColor=white) | Data structures, software architecture, relational DB design |
-| Software Engineering Job Simulation | ![Commonwealth Bank](https://img.shields.io/badge/Commonwealth%20Bank-a855f7?style=flat-square&logo=commonwealthbank&logoColor=white) | .NET backend, React/Redux frontend, PR workflow |
-| GenAI Powered Data Analytics Job Simulation | ![Tata](https://img.shields.io/badge/Tata-4c1d95?style=flat-square) | Risk profiling, delinquency prediction, AI-driven strategy |
-| Data Analytics Job Simulation | ![Deloitte](https://img.shields.io/badge/Deloitte-8b5cf6?style=flat-square&logo=deloitte&logoColor=white) | Data analysis, forensic technology |
+| Software Engineering Job Simulation | ![HPE](https://img.shields.io/badge/HPE-01A982?style=flat-square&logo=hp&logoColor=white) | RESTful services, data upload, unit testing |
+| Advanced Software Engineering Job Simulation | ![Walmart](https://img.shields.io/badge/Walmart%20Global%20Tech-0071CE?style=flat-square&logo=walmart&logoColor=white) | Data structures, software architecture, relational DB design |
+| Software Engineering Job Simulation | ![Commonwealth Bank](https://img.shields.io/badge/Commonwealth%20Bank-FFCC00?style=flat-square&logo=commonwealthbank&logoColor=black) | .NET backend, React/Redux frontend, PR workflow |
+| GenAI Powered Data Analytics Job Simulation | ![Tata](https://img.shields.io/badge/Tata-1E4598?style=flat-square) | Risk profiling, delinquency prediction, AI-driven strategy |
+| Data Analytics Job Simulation | ![Deloitte](https://img.shields.io/badge/Deloitte-86BC25?style=flat-square&logo=deloitte&logoColor=white) | Data analysis, forensic technology |
 | Solutions Architecture Job Simulation | ![Forage](https://img.shields.io/badge/Forage-6d28d9?style=flat-square) | Client needs assessment, solution design |
 | Product Management Job Simulation | ![Forage](https://img.shields.io/badge/Forage-6d28d9?style=flat-square) | Product performance, stakeholder presentation |
 
@@ -193,27 +193,10 @@ open_to:
 
 </div>
 
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chaitanyamodi-dev&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=15" />
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyamodi-dev&theme=react-dark&hide_border=true&color=a855f7&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6" width="100%" />
-</div>
-
-<br/>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/chaitanyamodi-dev/chaitanyamodi-dev/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-<br/>
+🏆 Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=chaitanyamodi-dev&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=15" /> </div>
+📈 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyamodi-dev&theme=react-dark&hide_border=true&color=a855f7&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6" width="100%" /> <img src="https://ghchart.rshah.org/8b5cf6/chaitanyamodi-dev" alt="chaitanyamodi-dev's github contribution graph" width="100%" /> </div> <br/>
 
 ### 🔗 Connect
 
