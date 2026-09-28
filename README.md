@@ -182,40 +182,8 @@ open_to:
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
 
-<!-- Main stats + top languages -->
-<a href="https://github.com/chaitanyamodi-dev">
-  <img height="180" alt="Chaitanya's GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=chaitanyamodi-dev&show_icons=true&theme=radical&hide_border=true&border_radius=12&title_color=a855f7&text_color=c9d1d9&icon_color=8b5cf6&bg_color=0d1117&include_all_commits=true&count_private=true&cache_seconds=14400" />
-</a>
-<a href="https://github.com/chaitanyamodi-dev?tab=repositories">
-  <img height="180" alt="Most used languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyamodi-dev&layout=compact&theme=radical&hide_border=true&border_radius=12&title_color=a855f7&text_color=c9d1d9&bg_color=0d1117&langs_count=8&cache_seconds=14400" />
-</a>
-
-<br/>
-
-<!-- Streak -->
-<img alt="GitHub streak" width="97%"
-  src="https://streak-stats.demolab.com/?user=chaitanyamodi-dev&theme=radical&hide_border=true&border_radius=12&ring=8b5cf6&fire=a855f7&currStreakLabel=a855f7&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b5cf6&dates=6e7681&background=0d1117" />
-
-<br/>
-
-<!-- Contribution activity graph -->
-<img alt="Contribution activity graph" width="97%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyamodi-dev&theme=react-dark&bg_color=0d1117&color=a855f7&line=8b5cf6&point=c9d1d9&area=true&hide_border=true" />
-
-</div>
-
-🏆 Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=chaitanyamodi-dev&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=15" /> </div>
-📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyamodi-dev&theme=react-dark&hide_border=true&color=a855f7&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6" width="100%" /> <img src="https://ghchart.rshah.org/8b5cf6/chaitanyamodi-dev" alt="chaitanyamodi-dev's github contribution graph" width="100%" />
-  
-</div> <br/>
 
 ### 🔗 Connect
 
