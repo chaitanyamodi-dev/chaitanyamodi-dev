@@ -15,7 +15,7 @@
 <br/>
 
 <a href="mailto:chaitanyamodi972004@gmail.com"><img src="https://img.shields.io/badge/Email-chaitanyamodi972004%40gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/chaitanya-modi"><img src="https://img.shields.io/badge/LinkedIn-chaitanya--modi-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/chaitanya-modi-dev"><img src="https://img.shields.io/badge/LinkedIn-chaitanya--modi-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/chaitanyamodi-dev"><img src="https://img.shields.io/badge/GitHub-chaitanyamodi--dev-4c1d95?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
