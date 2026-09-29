@@ -8,7 +8,7 @@
 
 <br/>
 
-![BCA](https://img.shields.io/badge/BCA-CGPA%209.21-8b5cf6?style=flat-square&logo=googlescholar&logoColor=white)
+![BCA](https://img.shields.io/badge/BCA-CGPA%209.22-8b5cf6?style=flat-square&logo=googlescholar&logoColor=white)
 ![University](https://img.shields.io/badge/Kadi%20Sarva%20Vishwavidyalaya-2022--2025-6d28d9?style=flat-square)
 ![Location](https://img.shields.io/badge/📍-Gandhinagar,%20Gujarat,%20India-4c1d95?style=flat-square)
 
