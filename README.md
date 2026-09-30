@@ -189,7 +189,7 @@ open_to:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitanya-modi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitanya-modi-dev)
 [![Email](https://img.shields.io/badge/Email-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanyamodi972004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaitanyamodi-dev)
 
