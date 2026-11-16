@@ -152,8 +152,27 @@ open_to:
 
 <br/>
 
-## `> Certifications & Job Simulations`
+## `> Certifications & Courses`
 
+<div align="center">
+
+| Certificate | Issuer | Issued | Focus Areas |
+|---|---|---|---|
+| Machine Learning A-Z [2026]: ML, DL, AI with AWS, Python & R | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white) | Nov 2026 | Machine Learning, Deep Learning, AI with Python & R |
+| Introduction to Agentic & LLM Architectures | ![Simplilearn](https://img.shields.io/badge/Simplilearn-FF8C00?style=flat-square) | Nov 2026 | Agentic AI, LLM architectures, tool use |
+| Hugging Face AI Agents Course | ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) | Oct 2026 | AI agents, LLMs, tool integration |
+| Closing the AI Value Gap – from Copilots to Agentic Automation | ![Agent Academy](https://img.shields.io/badge/Agent%20Academy-F97316?style=flat-square) | Oct 2026 | AI copilots, agentic automation |
+| AI Fluency Framework Foundations | ![Claude Academy](https://img.shields.io/badge/Claude%20Academy-D97757?style=flat-square&logo=anthropic&logoColor=white) | Oct 2026 | AI fluency, effective human–AI collaboration |
+| Generative AI: From Prompts to Partnership | ![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?style=flat-square&logo=linkedin&logoColor=white) | Oct 2026 | Generative AI literacy, prompting |
+| Quickstart: LangChain Essentials – Python | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) | Oct 2026 | LangChain, Python-based LLM apps |
+| Fundamentals of Generative AI | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) | Oct 2026 | Generative AI concepts, large language models |
+| 100 Days of Code™: The Complete Python Pro Bootcamp | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white) | Jun 2026 | Python, OOP, real-world projects |
+
+</div>
+
+<br/>
+
+### 🎓 Job Simulations
 *Completed via Forage Virtual Experience Programs*
 
 <div align="center">
@@ -169,8 +188,6 @@ open_to:
 | Product Management Job Simulation | ![Forage](https://img.shields.io/badge/Forage-6d28d9?style=flat-square) | Product performance, stakeholder presentation |
 
 </div>
-
----
 
 ## `> Coding Profiles`
 
